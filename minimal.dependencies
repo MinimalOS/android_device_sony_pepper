@@ -1,11 +1,17 @@
 [
     { 
  	"remote": "gh",
+	"repository": "XperiaSTE/android_device_sony_montblanc-common",
+	"target_path": "device/sony/montblanc-common",
+	"revision": "cm-12.1"
+    },
+    
+    { 
+ 	"remote": "gh",
 	"repository": "XperiaSTE/android_kernel_sony_u8500",
 	"target_path": "kernel/sony/u8500",
 	"revision": "cm-12.1"
     },
-
 
     {
 	"remote": "gh",
