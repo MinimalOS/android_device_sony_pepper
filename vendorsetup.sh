@@ -1,4 +1,0 @@
-add_lunch_combo minimal_pepper-user
-add_lunch_combo minimal_pepper-userdebug
-add_lunch_combo minimal_pepper-eng
-
