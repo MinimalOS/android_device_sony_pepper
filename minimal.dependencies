@@ -7,15 +7,43 @@
 	},
 
 	{
+	"remote": "ste",
+	"repository": "android_bootable_recovery",
+	"target_path": "bootable/recovery",
+	"revision": "cm-12.1"
+	},
+
+	{
 	"remote": "gh",
-	"repository": "XperiaSTE/android_external_bluetooth_bluez",
+	"repository": "dark-falcon/android_device_sony_montblanc-common",
+	"target_path": "device/sony/montblanc-common",
+	"revision": "lp-mr1"
+	},
+
+	{
+	"remote": "ste",
+	"repository": "android_external_bluetooth_bluez",
 	"target_path": "external/bluetooth/bluez",
 	"revision": "5.32"
 	},
 
 	{
-	"remote": "gh",
-	"repository": "XperiaSTE/android_external_icu",
+	"remote": "googlecode",
+	"repository": "aosp-bluez.glib",
+	"target_path": "external/bluetooth/glib",
+	"revision": "master"
+	},
+
+	{
+	"remote": "kernel",
+	"repository": "bluetooth/sbc",
+	"target_path": "external/bluetooth/sbc",
+	"revision": "master"
+	},
+
+	{
+	"remote": "ste",
+	"repository": "android_external_icu",
 	"target_path": "external/icu",
 	"revision": "cm-12.1"
 	},
@@ -42,8 +70,8 @@
 	},
 
 	{
-	"remote": "gh",
-	"repository": "XperiaSTE/android_hardware_libhardware_legacy",
+	"remote": "ste",
+	"repository": "android_hardware_libhardware_legacy",
 	"target_path": "hardware/libhardware_legacy",
 	"revision": "cm-12.1"
 	},
@@ -56,15 +84,15 @@
 	},
 
 	{
-	"remote": "gh",
-	"repository": "XperiaSTE/android_hardware_ste-sony",
+	"remote": "ste",
+	"repository": "android_hardware_ste-sony",
 	"target_path": "hardware/ste-sony",
 	"revision": "cm-12.1"
 	},
 
 	{
-	"remote": "gh",
-	"repository": "XperiaSTE/android_packages_apps_Bluetooth",
+	"remote": "ste",
+	"repository": "android_packages_apps_Bluetooth",
 	"target_path": "packages/apps/Bluetooth",
 	"revision": "cm-12.1"
 	},
@@ -84,44 +112,16 @@
 	},
 
 	{
-	"remote": "gh",
-	"repository": "dark-falcon/android_device_sony_montblanc-common",
-	"target_path": "device/sony/montblanc-common",
-	"revision": "lp-mr1"
-	},
-
-	{
-	"remote": "gh",
-	"repository": "XperiaSTE/android_bootable_recovery",
-	"target_path": "bootable/recovery",
-	"revision": "cm-12.1"
-	},
-
-	{
-	"remote": "gh",
-	"repository": "XperiaSTE/android_hardware_sony_DASH",
+	"remote": "ste",
+	"repository": "android_hardware_sony_DASH",
 	"target_path": "hardware/sony/DASH",
 	"revision": "cm-12.1"
 	},
 
 	{
-	"remote": "gh",
-	"repository": "XperiaSTE/android_vendor_sony",
+	"remote": "ste",
+	"repository": "android_vendor_sony",
 	"target_path": "vendor/sony",
 	"revision": "cm-12.1"
-	},
-
-	{
-	"remote": "gh",
-	"repository": "",
-	"target_path": "",
-	"revision": ""
-	},
-
-	{
-	"remote": "gh",
-	"repository": "",
-	"target_path": "",
-	"revision": ""
 	}
 ]
