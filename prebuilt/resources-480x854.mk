@@ -6,4 +6,4 @@ PRODUCT_COPY_FILES += \
      device/sony/pepper/prebuilt/animations/charging_animation_04.png:system/semc/chargemon/data/charging_animation_04.png \
      device/sony/pepper/prebuilt/animations/charging_animation_05.png:system/semc/chargemon/data/charging_animation_05.png \
      device/sony/pepper/prebuilt/animations/charging_animation_06.png:system/semc/chargemon/data/charging_animation_06.png \
-     device/sony/pepper/prebuilt/animations/charging_animation_07.png:system/semc/chargemon/data/charging_animation_07.png \
+     device/sony/pepper/prebuilt/animations/charging_animation_07.png:system/semc/chargemon/data/charging_animation_07.png
